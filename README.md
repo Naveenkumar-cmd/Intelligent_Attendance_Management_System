@@ -1,0 +1,2 @@
+# Intelligent_Attendance_Management_System
+Facial Recognition Based Attendance Management System
